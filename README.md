@@ -1,4 +1,4 @@
-# Bulls-and-Cows
+# Cows-and-Bulls
 
 Bulls and Cows is a mind game that involves 2 or more players.
 
